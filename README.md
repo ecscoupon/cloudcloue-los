@@ -1,4 +1,4 @@
-# CloudCloue美国洛杉矶DC4机房VPS多维度测
+# CloudCloue美国洛杉矶DC4机房VPS多维度测（硬件性能+网络质量+IP解锁）
 ## 关于Cloudcone
 
 CloudCone是海外高性价比云服务商，主打KVM架构VPS，核心机房为美国洛杉矶Multacom，主打的就是价格便宜，支持按小时计费、月付，支持支付宝、PayPal付款，入门门槛低。提供独立IPv4+IPv6、快照备份、基础 DDoS 防护，可自由重装系统，自带完整 root 权限。
